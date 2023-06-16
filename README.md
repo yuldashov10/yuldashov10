@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hello, friends!👋 <br>
 
-<!--
-**yuldashov10/yuldashov10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is [Shox](https://t.me/shyuldashov), I'm a self-taught programmer! 🚀<br>
 
-Here are some ideas to get you started:
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+I'm currently studying for a master's degree 👨‍🎓 also self-studying English. In 2021 I completed a bachelor's degree as an IT-specialist!
+
+Inspired, persistent, learning every day and never giving up! 😇🍀
+
+---
+
+#### Some tools I use
+
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="60" height="60" />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="django" width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="60" height="60" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" width="60" height="60" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="60" height="60" />
+</div>
