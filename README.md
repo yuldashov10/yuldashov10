@@ -1,14 +1,12 @@
-<h2 align="center">Hello, friends!👋</h2> 
-<h3 align="center">My name is Shox, and I'm a Full Stack Developer! 💻</h3>
+<h2 align="center">Hi, friends!👋</h2> 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ---
-My favorite language is Java, and I often use Python and JavaScript. In my projects, I use Django and React frameworks and also interact with REST APIs.<br><br>
-I earned my bachelor's degree in "IT Specialist" at IvSU (2017-2021) and recently graduated with honors with a master's degree in "Finance and Credit" from Plekhanov Russian University of Economics (2021-2024).<br><br>
-I'm fluent in Uzbek and Russian and am currently improving my English skills (basic proficiency).<br><br>
-I'm proficient in essential Full Stack development tools and also have skills in DevOps and Q/A-testing.<br>
-My interests include data analysis using Python Pandas, cybersecurity, and exploring new natural and programming languages.<br><br>
-I will be happy to talk with colleagues from all over the world. You can find me on [Telegram](https://t.me/shyuldashov).
+My name is Shox. I’m a backend developer specializing in Python and Java. In my projects, I use Django and work with REST APIs.
+
+I have experience with essential backend tools and skills in DevOps and QA testing. My interests include data analysis with Python and cybersecurity.
+
+Happy to connect with colleagues worldwide. Reach me on [Telegram](https://t.me/shyuldashov)
 
 ---
 
